@@ -6,11 +6,6 @@ Esse é um projeto feito no curso de NextJs
 
 Esse projeto criado no curso de NextJS, é um projeto geral sobre renderizações no NextJS conceitos e pratica.
 
-### Link do projeto Publicado
-
-[Projeto publicado](https://curso-next-portas.vercel.app/)
-
-
 ### Siga-me nas redes Sociais
 [Torne-se um programador](https://www.sobrinhodev.com.br/programador-do-zero)
 
